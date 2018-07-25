@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/vladimirnovick/.android/build-cache/3182f908a65365abb9ab238054f516b4cea423fe/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 55,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]

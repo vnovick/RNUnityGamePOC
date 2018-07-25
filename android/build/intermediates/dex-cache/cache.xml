@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_138b2a87ca5abd6b2159ab100d4071481faaacbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/3182f908a65365abb9ab238054f516b4cea423fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ef434e57522af7089dbd74b68af16ae760e33f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.6.0_e95b20a0feb6242debb29c186073fd684edafabf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/0e50a697d7d6259db69af8222ae6ce27ed0e5b72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b25ce83a7efcba32c0b0fb7a542c4ff8ef96e6f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e9ebe86d4c095d1676136d471d57b25d34c4be30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_2d7c7af0a782bfca15e8c2ebb723ef9bf804be48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9387cc9af796ebdf193cb2b1b045428875b78691">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a9afe83467c7f01fd50f5e40e0ad68191ce89352/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/2b4ed5ef453f33fa31f8d5c4dd3e1c4711c4bad0/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_50549ec3ae24731c7ea5f12a50e5819417cb97d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/libs/unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b541b7c350268dea27bb061eb4df5424e5aed649">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_e3928367cf3dd672026aea413d8bd0e036fa56e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/312c9d33db0886d8182f365b4ebf87139f35585f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e848769ce55c6dcb2e998fa6982724a9da6f26d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/b54cad450343ee9a31168d6c4cd96399d9172bba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22731524126da431ac6ee65c0fb39f5ceb97949d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/cfd41721b29a5df28bcae9bcdf22cd493b11b0ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ec7177a043a81d907215cc51132c16160617542/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_19eb0140cb65b27d2f5721e620e7967b46ba9ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_c559db6ecd8134823b3537696df242ab23bd2dee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_59d06772d784cfca7cfbe3030641ad69efeaf144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/2b4ed5ef453f33fa31f8d5c4dd3e1c4711c4bad0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c0fde169a88662996d8f2c748f74af35c7fd1a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/442cbcdf38792e9b945a8eb8b268f4a2ee0841c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccadeee75366e4809bc54caaeb177457f8a9daae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/84daa6f0c33540f220104da914a869f602d2a18e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0377f344fa2176223019495b74174ee54c026de9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_92a0ade4ef32a2e0da5fa624e88dfb7625251659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_4697f8d10fafb8c0022256b83aaa0a8e21f9b781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/c4fb3d20e5879e8a9bb6ed984abe2a155994b11b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_956aaadc2b5c39d6864c15e1d2d9a02763ed9574/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/69dc60e7ac142d7af91708331500d59cab3b1d76/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_7c28c4c4f70c123ca8413a3fd620f4ef1def4d2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/69dc60e7ac142d7af91708331500d59cab3b1d76/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b29e8bb0f7d062f945f830c5620706a2e250c89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_6025c26ec412347a50bb7c4a4d00ab2195bcc1d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/5e5d22a26ab5c7033a76c6b4a81ae476f8cb55e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a75d956dbb67d5d390e20c1299862271a324731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladimirnovick/.android/build-cache/f3f0f227ac4d61bcc694180dc7b146ca3645d373/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/vladimirnovick/dev/VladDev/Conferences/ReactNext/RNUnityGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fea0f596d97d89f06559dd4742907142415bdce3/classes.dex" />
+    </item>
+
+</items>
